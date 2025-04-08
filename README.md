@@ -81,7 +81,7 @@ outcome of an epidemic and help inform public health interventions.
 - [Spatial epidemiology](https://en.wikipedia.org/wiki/Spatial_epidemiology)
 - [Health Geography](https://en.wikipedia.org/wiki/Health_geography)
 - [Evidence-based medicine](https://en.wikipedia.org/wiki/Evidence-based_medicine)
-
+![](https://ga-beacon.deno.dev/G-4FTHWYCNMC:Ze0vK3cdTmSz-bzSssU1-Q/github.com/iiithf/infectious-disease-modeling)
 
 [Prof. Kishore Kothapalli]: https://www.iiit.ac.in/people/faculty/kkishore/
 [Prof. Sriram Pemmaraju]: https://cs.uiowa.edu/people/sriram-pemmaraju
